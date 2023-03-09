@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-27T13:31:48.609Z</updated>
+  <updated>2023-03-09T13:45:02.481Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,59 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>谢恩师</title>
-    <link href="http://example.com/2023/02/27/Up%20date4/"/>
-    <id>http://example.com/2023/02/27/Up%20date4/</id>
-    <published>2023-02-27T13:10:03.440Z</published>
-    <updated>2023-02-27T13:31:48.609Z</updated>
+    <title>today</title>
+    <link href="http://example.com/2023/03/09/Up%20date2/"/>
+    <id>http://example.com/2023/03/09/Up%20date2/</id>
+    <published>2023-03-09T13:40:44.678Z</published>
+    <updated>2023-03-09T13:45:02.481Z</updated>
     
-    <content type="html"><![CDATA[<p>特别致谢：<br>化学：高东辉（高中化学） . BabyChem（有机化学） . 李艳梅（清华 有机化学）<br>编程及计算机：嵩天（北京理工 Python网络爬虫） . 翁凯（浙大 c语言） . 青空の霞光（java入门）<br>韩顺平（清华 linux基础） . 计算机组成原理（哈工大 刘宏伟） . 数据库系统概论（中国人大 王珊）<br>数据结构基础（浙大 陈越&#x2F;何钦铭） . 计算机网络（中科大 郑烇&#x2F;杨坚） . 操作系统（南京大学 蒋炎岩）<br>算法导论（麻省理工 Charles Leiserson）</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;特别致谢：&lt;br&gt;化学：高东辉（高中化学） . BabyChem（有机化学） . 李艳梅（清华 有机化学）&lt;br&gt;编程及计算机：嵩天（北京理工 Python网络爬虫） . 翁凯（浙大 c语言） . 青空の霞光（java入门）&lt;br&gt;韩顺平（清华 linux基础） . 计算机</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>关于恢复正常作息</title>
-    <link href="http://example.com/2023/02/26/Up%20date3/"/>
-    <id>http://example.com/2023/02/26/Up%20date3/</id>
-    <published>2023-02-26T11:56:08.598Z</published>
-    <updated>2023-02-27T13:32:09.937Z</updated>
-    
-    <content type="html"><![CDATA[<p>每天能早睡就早睡，尽量坚持（但这只是个美好的愿望）</p>]]></content>
+    <content type="html"><![CDATA[<p>?????!!!!!</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;每天能早睡就早睡，尽量坚持（但这只是个美好的愿望）&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>再出山</title>
-    <link href="http://example.com/2023/02/26/Up%20date2/"/>
-    <id>http://example.com/2023/02/26/Up%20date2/</id>
-    <published>2023-02-26T11:39:43.105Z</published>
-    <updated>2023-02-27T13:33:44.855Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个blong可能不会长期了，近期编程也不会再搞了，沃要重操旧业力，<br>SYR将会重生且永生，再出山。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;这个blong可能不会长期了，近期编程也不会再搞了，沃要重操旧业力，&lt;br&gt;SYR将会重生且永生，再出山。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;?????!!!!!&lt;/p&gt;
 </summary>
       
     
@@ -80,8 +39,8 @@
   
   <entry>
     <title>永生代码</title>
-    <link href="http://example.com/2023/02/12/UP1/"/>
-    <id>http://example.com/2023/02/12/UP1/</id>
+    <link href="http://example.com/2023/02/12/Up%20date1/"/>
+    <id>http://example.com/2023/02/12/Up%20date1/</id>
     <published>2023-02-12T12:41:02.147Z</published>
     <updated>2023-02-12T12:43:43.871Z</updated>
     
@@ -101,8 +60,8 @@
   
   <entry>
     <title>Who am i ?</title>
-    <link href="http://example.com/2023/02/11/UP/"/>
-    <id>http://example.com/2023/02/11/UP/</id>
+    <link href="http://example.com/2023/02/11/Up%20date0/"/>
+    <id>http://example.com/2023/02/11/Up%20date0/</id>
     <published>2023-02-11T07:47:36.038Z</published>
     <updated>2023-02-11T07:49:27.902Z</updated>
     

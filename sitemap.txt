@@ -1,7 +1,5 @@
-http://example.com/2023/02/26/Up%20date2/
-http://example.com/2023/02/26/Up%20date3/
-http://example.com/2023/02/27/Up%20date4/
-http://example.com/2023/02/12/UP1/
-http://example.com/2023/02/11/UP/
+http://example.com/2023/03/09/Up%20date2/
+http://example.com/2023/02/12/Up%20date1/
+http://example.com/2023/02/11/Up%20date0/
 http://example.com/2023/02/05/hello-world/
 http://example.com/
